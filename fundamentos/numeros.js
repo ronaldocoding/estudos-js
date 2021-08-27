@@ -1,4 +1,18 @@
-const peso1 = 1.0
+/* Em Javascript os números são do tipo "number".
+ * Existem alguns métodos dentro de "Number", uma função que representa números
+ * de todos os tipos, que facilitam a verificação de alguns casos.
+ * 
+ * Um exemplo de método é o "Number.integer()" que retorna "true" se o número
+ * for inteiro e "false" se ele não for. 
+ */
+
+//Uma forma simples de criar uma constante ou variável do tipo "number"
+const peso1 = 1.1
+
+/**
+ * Outra forma é usando a função "Number" e passando como argumento uma string
+ * que represente o número
+ */
 const peso2 = Number('2.0')
 
 console.log(peso1, peso2)
