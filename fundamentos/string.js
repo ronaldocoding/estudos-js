@@ -1,6 +1,6 @@
 /**
  * Uma string é uma cadeia de caracteres. Em Javascript pode-se delimitar uma
- * string com aspas duplas, aspas simples, crases
+ * string com aspas duplas, aspas simples e crases
  */
 
 let nome1 = "Maria" //delimitação com aspas duplas
@@ -9,12 +9,12 @@ let nome3 = `Pedro` //delimitação com crases
 
 const escola = "Cod3r"
 
-console.log(escola.charAt(4)) //retorna caractere do índice 4 da cadeia
+console.log(escola.charAt(4)) //retorna caractere do índice 4 da string
 
 //Ouput
 //r
 
-console.log(escola.charCodeAt(3)) //retorna o valor do caractere na tabela ASCCI
+console.log(escola.charCodeAt(3)) //retorna o valor do caractere na tabela ASCII
 
 //Output
 //51
@@ -48,7 +48,7 @@ console.log(escola.replace(3, "e")) //substitui o caracter do índice 3 por "e"
 
 /**
  * A função split() separa os elementos de uma string a partir de um caracter
- * como pâmetro e a transforma em um array, uma estrutura de dados que será
+ * como parâmetro e a transforma em um array, uma estrutura de dados que será
  * explicada no futuro.
  */
 console.log("Ana, Maria, Pedro".split(","))
