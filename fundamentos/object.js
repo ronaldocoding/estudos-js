@@ -1,17 +1,23 @@
 /**
- * O object em Javacript é uma coleção de chave-valor, em que há o nome de um
- * atributo, um identificador, e um valor para esse atributo.
+ * O object em Javacript é uma coleção de chave-valor, em que há o identificador 
+ * (a chave) e um valor atribuído. 
  * 
  * Se define um objeto por meio de um par de chaves. No exemplo
  * abaixo há uma declaração literal de um objeto de nome "prod1".
  */
 const prod1 = {}
 
-//É possível gerar atributos de forma dinâmica, ou seja, sem declaração prévia.
+/**
+ * É possível adicionar atributos a um object de forma dinâmica, ou seja, 
+ * sem declaração prévia.
+ */
 prod1.nome = 'Celular X'
 prod1.preco = 4998.90
 
-//Também é posível usar nome de indentificadores com espaço
+/**
+ * Também é possível usar nome de identificadores com espaços em branco, basta 
+ * utilizar um par de colchetes e uma string.
+ */
 prod1['Desconto Legal'] = 0.40
 
 console.log(prod1)
@@ -24,8 +30,8 @@ console.log(prod1)
  * objetos dentro de outros objetos.
  * 
  * Atenção: os nomes dos identificadores de um objeto precisam ser únicos, mas 
- * eles não interferem nos nomes dos indentificadores de um objeto que está 
- * dentro de outro objeto.
+ * eles não interferem nos nomes dos indentificadores de um "objeto filho" que 
+ * pode estar dentro do "objeto mãe".
  */
 
 const prod2 = {
