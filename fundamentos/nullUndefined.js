@@ -14,7 +14,7 @@
  * ou constante de um tipo primitivo (number, boolean, string) recebe o valor de
  * outra. Nesse caso, é armazenado apenas uma cópia do valor original e não o 
  * endereço de memória que o valor está armazenado. Sendo assim, as mudanças que 
- * forem feitas em uma varíavel ou constante não serão percebidas por aquelas 
+ * forem feitas em uma varíavel não serão percebidas por aquelas 
  * que receberam os seus valores copiados.
  */
 
@@ -55,8 +55,10 @@ let d = c
 d = d + 1
 
 //Valor de "c" continua o mesmo
-
 console.log(c)
+
+//Output
+//1
 
 /**
  * Não inicializar uma variável significa dizer que ela é indefinida, ou seja,
@@ -70,7 +72,7 @@ console.log(valor)
 //undefined
 
 /**
- * Atribuir null a uma varíavel segnifica dizer que ela não está apontando para
+ * Atribuir null a uma variável significa dizer que ela não está apontando para
  * nenhum endereço de memória.
  */
 valor = null
@@ -90,7 +92,7 @@ console.log(valor)
  * gerados
  */
 
-//console.log(valor.toString) -> gera TypeError
+//console.log(valor.toString()) -> gera TypeError
 
 //Output
 //TypeError: Cannot read property 'toString' of null...
