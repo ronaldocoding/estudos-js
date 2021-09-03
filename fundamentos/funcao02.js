@@ -1,5 +1,5 @@
 /**
- * Um dos recursos mais poderosos da linguagem Javascripr é a possibilidade de
+ * Um dos recursos mais poderosos da linguagem Javascript é a possibilidade de
  * armazenar um função em uma variável ou constante
  */
 
@@ -14,12 +14,12 @@ imprimirSoma(2, 3)
 //5
 
 /**
- * O uso da arrow function permite substituir a palavra reservada function e
- * até mesmo a necessidade do par de chaves e o return ao declarar uma função 
- * para ser armazenada.
+ * O uso da arrow function permite substituir a palavra reservada "function", a 
+ * necessidade do par de chaves, o return e até mesmo os parênteses ao declarar 
+ * uma função para ser armazenada.
  */
 
-//Armazenando uma arrow function em uma constante
+//Usando arrow function para substituir a palavra reservada "function"
 const soma = (a, b) => {
     return a + b
 }
