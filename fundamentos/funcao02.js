@@ -39,7 +39,7 @@ console.log(subtracao(5, 4))
 
 /**
  * Quando há apenas um parâmetro é possível fazer uma função ainda menor -> 
- * substitui os parentêses
+ * substitui os parênteses
  */
 const elevaQuadrado = a => a * a
 
