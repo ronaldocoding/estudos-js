@@ -1,10 +1,14 @@
 /**
- * Uma função é um bloco de código nomeado, com identidicador, que agrupa uma ou
+ * Uma função é um bloco de código nomeado que agrupa uma ou
  * mais sentenças, em que são estabelecidos parâmetros de entrada (ou não), os 
- * ingredientes, que podem passados em todas as ocasiões em que a função é
+ * ingredientes, que podem ser passados em todas as ocasiões em que a função é
  * chamada, para que no fim algo seja retornado (ou não).
  * 
- * Para se definir uma função basta utilizar a palavra reservada "function",
+ * Dessa forma, função é um bloco de código que pode ser reutilizado quantas
+ * vezes forem necessárias, basta chamá-la por seu nome (identificador) e passar
+ * seus parâmetros.
+ * 
+ * Para se definir uma função é preciso utilizar a palavra reservada "function",
  * estabelecer um identificador, os seus parâmetros (ou não) e escrever o seu 
  * algoritmo.
  */
@@ -13,7 +17,6 @@
 function imprimirSoma(a, b) {
     console.log(a + b)
 }
-
 
 imprimirSoma(2, 3)
 
@@ -33,7 +36,7 @@ imprimirSoma(2)
 //NaN
 
 /**
- * Também é possível passar vários parâmetros, o resultado será a soma dos dois
+ * Também é possível passar vários parâmetros: o resultado será a soma dos dois
  * primeiros, como foi definido no corpo da função, e os outros parâmetros serão
  * ignorados.
  */
