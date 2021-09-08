@@ -70,7 +70,7 @@ $ node math.js
 
 Este repositório está sob a licença MIT. Para mais informações acesse o arquivo [LICENSE](https://github.com/ronaldocoding/estudos-js/blob/main/LICENSE).
 
-## Autor
+## Autor 🤓
 
 <a href="https://github.com/ronaldocoding">
  <img style="border-radius: 50%;" src="https://github.com/ronaldocoding.png" width="100px;" alt=""/>
