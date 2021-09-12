@@ -32,7 +32,7 @@ const { nome: n, idade: i } = pessoa
 console.log(n, i) // Ana 5
 
 /**
- * Também é possível inicializar as variáveis para caso o atribuito não exista 
+ * Também é possível inicializar as variáveis para caso o atributo não exista 
  * no objeto. Caso não seja inicializado, o valor retornado pode ser undefined.
  */
 const { sobrenome = 'Carla', bemHumorada = true } = pessoa
