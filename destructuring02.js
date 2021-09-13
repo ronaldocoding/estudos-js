@@ -18,7 +18,7 @@ console.log(n1, n2, n3, n4) // 10 7 9 8
 const [a, , c] = numeros // Pula o segundo elemento.
 console.log(a, c) // 10 9
 
-// E, por fim, um exemplo de destruturação aninhada de arrays
+// E, por fim, um exemplo de desestruturação aninhada de arrays
 const notas = [
     [7.1, 7.4, 6.4],
     [9.1, 5.4, 2.1]
