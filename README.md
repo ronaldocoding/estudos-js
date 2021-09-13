@@ -20,7 +20,7 @@
 
 ## Sobre 📖
 
-Este repositório é voltado para os meus estudos da linguagem de programação Javascript. Vou publicar aqui os meus resumos das aulas do curso [Web Moderno com Javascript](https://www.udemy.com/course/curso-web/) da [Cod3r](https://www.cod3r.com.br/?ref=4b3da5&gclid=Cj0KCQjw-NaJBhDsARIsAAja6dOcjd78hdccr2TEcZmdxMHkl7bIlH4kEsHbtgcZ2wv1wC_NND-RTRIaAigJEALw_wcB) feito pelo professor Leonardo Moura Leitao. As seções resumidas aqui serão as seguintes:
+Este repositório é voltado para os meus estudos da linguagem de programação Javascript. Vou publicar aqui os meus resumos das aulas do curso [Web Moderno com Javascript](https://www.udemy.com/course/curso-web/) da [Cod3r](https://www.cod3r.com.br/?ref=4b3da5&gclid=Cj0KCQjw-NaJBhDsARIsAAja6dOcjd78hdccr2TEcZmdxMHkl7bIlH4kEsHbtgcZ2wv1wC_NND-RTRIaAigJEALw_wcB) feito pelo professor Leonardo Moura Leitão. Cada nome de arquivo corresponde ao conteúdo estudado de uma aula. Por exemplo, o arquivo `hoisting.js` tem o conteúdo da aula de hoisting da seção de fundamentos. As seções resumidas aqui serão as seguintes:
 
 1. Seção 4: Javascript: Fundamentos
 2. Seção 5: Javascript: Estruturas de Controle
