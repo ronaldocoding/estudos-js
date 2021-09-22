@@ -35,8 +35,8 @@ Este repositório é voltado para os meus estudos da linguagem de programação 
 
 Os conteúdos publicados no repositório ainda estão em **andamento**. Seguem os percentuais de aulas concluídas de cada seção:
 
-1. Fundamentos: `95%` (43/45)
-2. Estruturas de Controle: `0%` (0/12)
+1. Fundamentos: `100%` (45/45)
+2. Estruturas de Controle: `25%` (3/12)
 3. Função: `0%` (0/26)
 4. Objeto: `0%` (0/17)
 5. Array: `0%` (0/16)
