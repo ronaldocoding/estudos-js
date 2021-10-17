@@ -38,7 +38,7 @@ Os conteúdos publicados no repositório ainda estão em **andamento**. Seguem o
 1. Fundamentos: `100%` (45/45)
 2. Estruturas de Controle: `100%` (12/12)
 3. Função: `100%` (26/26)
-4. Objeto: `17%` (3/17)
+4. Objeto: `35%` (7/17)
 5. Array: `0%` (0/16)
 6. Exercícios: `0%` (0/2)
 
