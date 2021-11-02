@@ -39,7 +39,7 @@ Os conteúdos publicados no repositório ainda estão em **andamento**. Seguem o
 2. Estruturas de Controle: `100%` (12/12)
 3. Função: `100%` (26/26)
 4. Objeto: `64%` (11/17)
-5. Array: `62%` (10/16)
+5. Array: `75%` (12/16)
 6. Exercícios: `0%` (0/2)
 
 ## Como executar 🚀
